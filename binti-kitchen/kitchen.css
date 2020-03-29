@@ -1,0 +1,33 @@
+body {
+  background-image: url("./bread.jpg");
+  background-size: cover;
+}
+
+
+a.nav-right {
+  margin: 10px;
+  color: #fff;
+  font-size: 16px;
+  text-decoration: none;
+}
+
+.container {
+  width: 500px;
+  margin-top: 20%;
+  color: #c6c6c7;
+  text-transform: uppercase;
+  font-size: 60px;
+}
+
+h1 {
+  font-size: 40px;
+  text-shadow: 1px 2px #ece6e6;
+}
+
+h3 {
+  color: #fff;
+}
+
+button {
+  margin-left: 20%;
+}
